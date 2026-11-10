@@ -9,7 +9,6 @@ I've spent 9+ years building web and mobile products across fintech, healthcare 
 | Project | My contribution |
 | --- | --- |
 | [Elva AI](https://elva.ai) | Built a Django-based AI agent that integrates with Open Dental to automate front-office workflows. Also developed React interfaces and managed the Core product roadmap. |
-| Noura | Lead development of a React and TypeScript school management platform for administrators, teachers, and students. |
 | [Tehran Payment](https://tehranpayment.com) | Led frontend engineering for a payments platform, set technical standards, and built reusable components and tested workflows. |
 | [LandRocker](https://landrocker.io) | Built interactive 3D browser experiences with Three.js and integrated Web3 features. |
 | ToBank | Developed a cross-platform banking app with Flutter. |
